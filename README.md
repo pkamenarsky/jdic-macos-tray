@@ -34,7 +34,7 @@ Set a caption or an image and add to the system tray:
     
 	tray.addTrayIcon(icon, 0);
 
-Now add some items to the status item:
+Now add some menu items to the status item:
 
 	icon.addItem("Item 0", new ActionListener() {...});
 	icon.addItem("Item 1", new ActionListener() {...});
