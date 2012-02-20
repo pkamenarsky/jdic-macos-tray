@@ -46,4 +46,5 @@ Removing items is equally as easy:
 
 ## License
 
-GPL
+[GPL](http://www.gnu.org/copyleft/gpl.html)
+
