@@ -24,7 +24,7 @@
 		<mkdir dir="${dist}/"/>
 
 		<!-- Put everything in ${build} into the MyProject-${DSTAMP}.jar file -->
-		<jar jarfile="${dist}/jdic-macos-tray-0.0.1.jar" basedir="${build}"/>
+		<jar jarfile="${dist}/jdic-macos-tray-0.0.2.jar" basedir="${build}"/>
 	</target>
 
 	<target name="clean"

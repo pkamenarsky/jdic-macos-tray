@@ -12,5 +12,5 @@ so:
 
 clojar: jar so
 	mkdir -p dist
-	jar -cMf dist/jdic-macos-tray-0.0.1.jar native lib
-	scp pom.xml dist/jdic-macos-tray-0.0.1.jar clojars@clojars.org:
+	jar -cMf dist/jdic-macos-tray-0.0.2.jar native lib
+	scp pom.xml dist/jdic-macos-tray-0.0.2.jar clojars@clojars.org:
