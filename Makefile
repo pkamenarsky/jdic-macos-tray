@@ -1,5 +1,8 @@
 all: jar so
 
+clean:
+	rm -rf build dist lib native
+
 jar:
 	ant dist
 
