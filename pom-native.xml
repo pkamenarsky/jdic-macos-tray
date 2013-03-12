@@ -2,7 +2,7 @@
 <project>
 	<modelVersion>0.0.3</modelVersion>
 	<groupId>org.clojars.pka</groupId>
-	<artifactId>jdic-macos-tray</artifactId>
+	<artifactId>jdic-macos-tray-native-deps</artifactId>
 	<version>0.0.3</version>
-	<name>jdic-macos-tray</name>
+	<name>jdic-macos-tray-native-deps</name>
 </project>
